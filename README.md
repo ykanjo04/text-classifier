@@ -163,4 +163,5 @@ Sentiment: Positive
 - Adjust hyperparameters (epochs, batch_size, hidden layer units) in the script
 
 
-project codes done by Yahya Kanjo for SIC
+
+project codes done by Yahya Kanjo for Samsung Innovation Campus
